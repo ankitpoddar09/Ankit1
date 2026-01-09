@@ -68,15 +68,3 @@ Product-Price-Comparison/
 
 
 ---
-
-## ▶️ How to Run the Project
-
-1. Clone the repository or download the files
-2. Download the dataset from Kaggle
-3. Place the CSV file in the project directory
-4. Install required libraries:
-```bash
-pip install pandas numpy matplotlib seaborn
-5. Run the Python file:
-
-python product_price_comparison.py
