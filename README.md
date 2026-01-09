@@ -77,3 +77,6 @@ Product-Price-Comparison/
 4. Install required libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn
+5. Run the Python file:
+
+python product_price_comparison.py
